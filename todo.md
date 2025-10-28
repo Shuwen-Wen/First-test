@@ -6,3 +6,4 @@ finish lecture
 go home
 Have supper
 Watch TV
+Got to bed
